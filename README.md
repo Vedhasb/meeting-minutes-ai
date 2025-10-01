@@ -6,6 +6,3 @@
 - Built with Gradio, Hugging Face Transformers (Whisper + BART)
 - Live demo:(https://huggingface.co/spaces/VedhasBidwai/meeting-minutes-ai)
 
-!git add README.md
-!git commit -m "Add README"
-!git push origin main
