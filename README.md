@@ -6,3 +6,12 @@
 - Built with Gradio, Hugging Face Transformers (Whisper + BART)
 - Live demo:(https://huggingface.co/spaces/VedhasBidwai/meeting-minutes-ai)
 
+## Demo
+
+**Input:**
+
+![Input](input.png)
+
+**Output:**
+
+![Output](output.png)
