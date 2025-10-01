@@ -1,4 +1,4 @@
-readme_text = """
+
 # Meeting Minutes Generator AI
 
 - Upload a meeting .wav file
