@@ -5,10 +5,6 @@
 - Generates transcript + summarized meeting minutes
 - Built with Gradio, Hugging Face Transformers (Whisper + BART)
 - Live demo:(https://huggingface.co/spaces/VedhasBidwai/meeting-minutes-ai)
-"""
-
-with open("README.md", "w") as f:
-    f.write(readme_text)
 
 !git add README.md
 !git commit -m "Add README"
